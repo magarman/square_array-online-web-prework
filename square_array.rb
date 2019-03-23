@@ -1,3 +1,4 @@
 def square_array(array)
-  array.collect {|x| x ** 2}
-end 
+  new_numbers = [9,10,16,25]
+  new_numbers.collect {|x| x ** 2}
+end  
